@@ -38,6 +38,7 @@ Text was transformed using:
 
 python
 TfidfVectorizer(max_features=5000, ngram_range=(1, 2))
+
 Requirements
 Install the main dependencies with:
 
