@@ -1,4 +1,4 @@
-# SMS Spam Detection Using Machine Learning
+# spam message classification using machine learning and Nlp
 
 ## Overview
 This project develops an SMS spam detection system using machine learning and natural language processing. The aim is to classify SMS messages as either **ham** (legitimate) or **spam** (unwanted/malicious). The project compares three models: **Random Forest**, **Support Vector Classification (SVC)**, and **XGBoost**.
